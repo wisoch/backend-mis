@@ -1,0 +1,9 @@
+[submodule "vendor/kernel/kernel-mvc"]
+	path = vendor/kernel/kernel-mvc
+	url = git@github.com:wisoch/kernel-mvc.git
+[submodule "vendor/kernel/kernel-db"]
+	path = vendor/kernel/kernel-db
+	url = git@github.com:wisoch/kernel-db.git
+[submodule "vendor/kernel/kernel-modulemanager"]
+	path = vendor/kernel/kernel-modulemanager
+	url = git@github.com:wisoch/kernel-modulemanager.git
